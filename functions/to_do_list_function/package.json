@@ -1,0 +1,10 @@
+{
+	"name": "to_do_list_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "srinathpasupathi12@gmail.com",
+	"dependencies": {
+		"express": "^4.17.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

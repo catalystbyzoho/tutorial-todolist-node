@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "to_do_list_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
